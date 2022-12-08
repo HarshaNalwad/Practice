@@ -77,7 +77,7 @@
             "name": "UnitPrice",
             "dataType": "decimal",
             "sourceColumn": "UnitPrice",
-            "formatString": "\\$#,0.###############;(\\$#,0.###############);\\$#,0.###############",
+            "formatString": "#,0",
             "lineageTag": "7510e7f4-210d-4616-99f3-5b6aaf49be05",
             "summarizeBy": "none",
             "annotations": [
